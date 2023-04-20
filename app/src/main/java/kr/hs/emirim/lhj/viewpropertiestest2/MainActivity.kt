@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         t2=findViewById<TextView>(R.id.text2)
         t3=findViewById<TextView>(R.id.text3)
 
-        t1.setText("안녕 미림")
+        t1.setText("안녕 미림")ㄴ
         t1.setTextSize(30.0f)
         t1.setTextColor(Color.MAGENTA)
 
